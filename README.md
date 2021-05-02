@@ -17,3 +17,8 @@
 - https://gatsbystarterhelloworldsource.gatsbyjs.io/
 - https://github.com/gatsbyjs/gatsby-starter-default.git *(gatsbyjs/gatsby-starter-default)*
 - https://gatsbystarterdefaultsource.gatsbyjs.io/
+- https://www.gatsbyjs.com/gatsby-cheat-sheet.pdf **(Gatsby Cheat Sheet)**
+
+# Resources
+
+- https://www.gatsbyjs.com/docs/third-party-graphql/ (Using Third-party GraphQL APIs)
